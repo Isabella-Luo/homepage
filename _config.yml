@@ -22,7 +22,7 @@ repository               : "isabella-luo.github.io/homepage/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "形象照.jpg"
+  avatar           : "https://img.picui.cn/free/2025/05/12/6821f4670cf53.jpg"
   name             : "罗惜暄"
   pronouns         : # example: "she/her"  
   bio              : "出生于2008年10月，目前成立了南昌罗姐英语角，欢迎访问我们的网页并成为我们的一员"
