@@ -32,11 +32,11 @@ author:
   email            : "zhongguo-123@outlook.com" 
 
   # Social media
-  facebook         : "https://www.facebook.com/luo.xi.xuan.680519"
-  instagram        : "https://www.instagram.com/luo_xixuan/"
-  twitter          : "https://x.com/xuan_luo83903"
-  weibo            : "https://www.weibo.com/u/7986440031"
-  youtube          : "https://www.youtube.com/@jyydlj"
+  facebook         : "luo.xi.xuan.680519"
+  instagram        : "luo_xixuan"
+  twitter          : "xuan_luo83903"
+  weibo            : "u/7986440031"
+  youtube          : "@jyydlj"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
